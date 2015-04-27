@@ -22,3 +22,9 @@
 ?>
 
 
+#For Laravel:
+#Create a Laravel basic stucture through terminla if composer is already installed
+
+$ composer create-project laravel/laravel laravel-5 dev-develop
+
+
